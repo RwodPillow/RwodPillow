@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work across VAPT, GRC, and OT/ICS security — IEC 62443, ISO 27001, and vulnerability assessment on live production environments spanning aviation, energy, and critical infrastructure.<br><br>Portfolio → (https://yms-portfolio.vercel.app)
+I work across VAPT, GRC, and OT/ICS security — IEC 62443, ISO 27001, and vulnerability assessment on live production environments spanning aviation, energy, and critical information infrastructure.<br><br>Portfolio → https://yms-portfolio.vercel.app
 
 
 ## 🌐 Socials:
